@@ -14,3 +14,6 @@ console.log("Espero compartilhar muitos projetos interessantes aqui!");
 // Git Add: Adiciona os arquivos modificados para a área de staging
 // Git Commit: Salva as mudanças no repositório local
 
+function saudacao() {
+    console.log("Olá, seja bem-vindo ao meu projeto!");
+}

@@ -17,3 +17,12 @@ console.log("Espero compartilhar muitos projetos interessantes aqui!");
 function saudacao() {
     console.log("Olá, seja bem-vindo ao meu mundo!");
 }
+
+saudacao();
+
+function soma(a, b) {
+    return a + b;
+}
+
+const resultado = soma(5, 3);
+console.log("O resultado da soma é: " + resultado);

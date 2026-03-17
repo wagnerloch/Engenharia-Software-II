@@ -15,5 +15,5 @@ console.log("Espero compartilhar muitos projetos interessantes aqui!");
 // Git Commit: Salva as mudanças no repositório local
 
 function saudacao() {
-    console.log("Olá, seja bem-vindo ao meu projeto!");
+    console.log("Olá, seja bem-vindo ao meu mundo!");
 }

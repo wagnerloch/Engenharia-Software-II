@@ -45,5 +45,3 @@ function divisao(a, b) {
 
 const resultadoDivisao = divisao(10, 2);
 console.log("O resultado da divisão é: " + resultadoDivisao);
-
-console.log("O resultado da divisão é: " + resultadoDivisao);
